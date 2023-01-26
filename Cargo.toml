@@ -2,6 +2,14 @@
 name = "qrport"
 version = "0.1.0"
 edition = "2021"
+authors = ["Feng <zf.pascal@gmail.com>"]
+license = "MIT"
+description = "transfering file to cell phone using QR code"
+readme = "README.md"
+homepage = "https://github.com/zweifisch/qrport"
+repository = "https://github.com/zweifisch/qrport"
+keywords = ["mobile", "qrcode", "file", "transfer"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
